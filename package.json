@@ -1,0 +1,30 @@
+{
+  "name": "video-quality",
+  "version": "1.0.0",
+  "description": "Node module to find PSNR and SSIM of videos and images",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilson27/video-quality.git"
+  },
+  "keywords": [
+    "video",
+    "image",
+    "SSIM",
+    "PSNR",
+    "quality",
+    "video",
+    "quality",
+    "image",
+    "quality"
+  ],
+  "author": "Gilson Varghese",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/gilson27/video-quality/issues"
+  },
+  "homepage": "https://github.com/gilson27/video-quality#readme"
+}
